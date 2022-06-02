@@ -99,8 +99,6 @@ plugins:
         reference/variables.md: https://mkdocs-macros-plugin.readthedocs.io/
         sponsorship.md: insiders/index.md
         upgrading.md: upgrade.md
-  - minify:
-      minify_html: true
 
 # Customization
 extra:
